@@ -1,0 +1,14 @@
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.exe
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.deps.json
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.dll
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\bin\Debug\net10.0\ClinicaVeterinaria.pdb
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.dll
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\refint\ClinicaVeterinaria.dll
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.pdb
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\migue\Reto-2-cs\ClinicaVeterinaria\obj\Debug\net10.0\ref\ClinicaVeterinaria.dll

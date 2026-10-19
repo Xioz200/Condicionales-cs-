@@ -1,0 +1,14 @@
+C:\Users\migue\Reto-2-cs\TallerCondicional\bin\Debug\net10.0\TallerCondicional.exe
+C:\Users\migue\Reto-2-cs\TallerCondicional\bin\Debug\net10.0\TallerCondicional.deps.json
+C:\Users\migue\Reto-2-cs\TallerCondicional\bin\Debug\net10.0\TallerCondicional.runtimeconfig.json
+C:\Users\migue\Reto-2-cs\TallerCondicional\bin\Debug\net10.0\TallerCondicional.dll
+C:\Users\migue\Reto-2-cs\TallerCondicional\bin\Debug\net10.0\TallerCondicional.pdb
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.AssemblyInfoInputs.cache
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.AssemblyInfo.cs
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.csproj.CoreCompileInputs.cache
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.dll
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\refint\TallerCondicional.dll
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.pdb
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\TallerCondicional.genruntimeconfig.cache
+C:\Users\migue\Reto-2-cs\TallerCondicional\obj\Debug\net10.0\ref\TallerCondicional.dll
